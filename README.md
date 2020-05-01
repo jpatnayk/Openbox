@@ -1,6 +1,9 @@
 # Openbox
 
-Copied over the following repositories from old profile - 
+Fri May  1 23:30:44 IST 2020
+
+Copied over following repositories (arranged by date last updated) -
+
 - dotfiles
 - i3
 - i3wm-themer
